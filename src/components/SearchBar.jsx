@@ -57,7 +57,7 @@ const SearchBar = () => {
 							aria-label="Recipient's username with two button addons"
 						/>
 						<Button variant="danger" onClick={searchBuses}>
-							Search Buses
+							Search Buses!
 						</Button>
 					</InputGroup>
 				</div>
